@@ -49,5 +49,8 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
+# data and vignettes
+converted_vignettes
 
+.DS_Store
 
